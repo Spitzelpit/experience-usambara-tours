@@ -49,7 +49,7 @@ usambara-tours/
 - [x] M3 Inhalte: Texte EN, Touren-Karten, Galerie, direkte Kontakt-Links
 - [x] M4 Feinschliff: Mobile, Ladezeit, Accessibility, reduced motion
 - [x] M5 Verifikation: lokaler HTTP-Server, alle Ressourcen 200, Playwright-Screenshots
-- [ ] M6 GitHub-Push + UEBERGABE.md
+- [x] M6 GitHub-Push + UEBERGABE.md
 
 ## Definition of Done
 - Seite laesst sich lokal per HTTP laden, alle Ressourcen liefern 200
