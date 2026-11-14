@@ -24,9 +24,11 @@ Die 6 geschickten Fotos, optimiert (JPEG q82, progressive, max 2000px, lazy unte
 FB-Account-Bilder: nicht ladbar, FB meldet HTTP 400 ohne Login.
 
 ## Domain + Hosting
-experience-usambara.com ist frei (RDAP-Check). Registrierung + Hosting durch Jamie.
-Empfehlung: Cloudflare Pages oder Netlify, Git-Connect an dieses Repo
-(oder einfach den Ordner hochladen — alles ist statisch).
+experience-usambara.com ist frei (RDAP-Check). Registrierung durch Jamie.
+**Live-Demo (ausserhalb des LAN):** https://spitzelpit.github.io/experience-usambara-tours/
+(GitHub Pages, kostenlos, deployt automatisch bei jedem Push auf main.)
+Spaeter: eigene Domain als CNAME in den Pages-Settings, dann ist die Demo-URL obsolet.
+Empfehlung fuer Produktiv: Cloudflare Pages oder Netlify, Git-Connect an dieses Repo.
 
 ## Lokale Vorschau
 `python3 -m http.server 8099` im Repo-Root, dann http://127.0.0.1:8099/
