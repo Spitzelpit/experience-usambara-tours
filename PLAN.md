@@ -42,7 +42,7 @@ usambara-tours/
 
 ## Meilensteine
 - [x] M0 Setup: Repo, Domain-Check, Font-Download, Bilder optimiert
-- [ ] M1 Design-System: Palette, Typo, Layout-Prinzipien, Inspirations-Notizen
+- [x] M1 Design-System: Palette, Typo, Layout-Prinzipien, Inspirations-Notizen (DESIGN.md, Palette aus den 6 Fotos abgeleitet)
 - [ ] M2 Bau: index.html + CSS + JS, alle Sektionen
 - [ ] M3 Inhalte: Texte EN, Touren-Karten, Galerie, direkte Kontakt-Links
 - [ ] M4 Feinschliff: Mobile, Ladezeit, Accessibility, reduced motion
