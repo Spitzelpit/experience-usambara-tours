@@ -9,7 +9,8 @@ Tours (4 Karten: Rainforest Hikes, Multi-Day Treks, Wildlife Walks, Driving & Cu
 Galerie (alle 6 Fotos), Kontakt.
 
 ## Kontakt auf der Seite (direkt, kein wa.me)
-- tel:+255653106997 (8x, u.a. Hero-Button, Tour-Karten, Footer)
+- tel:+255653106997 (4x: Hero-Button, Nav-Pill, Kontakt, Footer)
+- Tour-Karten zeigen "Contact" mit Link auf #contact statt der wiederholten Nummer
 - mailto:kibwanangoda@gmail.com
 - https://www.facebook.com/kibwana.ngogda
 - Adresse: P.O. Box 268, Lushoto, Tanzania

@@ -118,28 +118,28 @@ h2 {
 .nav-row { display: flex; align-items: center; justify-content: space-between; gap: 1rem; }
 .brand { display: flex; align-items: center; gap: .65rem; text-decoration: none; }
 .brand-mark {
-  width: 2.5rem; height: 2.5rem; border-radius: 50%;
+  width: 2.7rem; height: 2.7rem; border-radius: 50%;
   background: var(--forest); color: var(--paper);
   display: grid; place-items: center;
-  font-family: var(--font-stencil); font-size: .95rem; letter-spacing: .02em;
   transform: rotate(-6deg);
 }
+.brand-mark svg { width: 1.35rem; height: 1.35rem; fill: currentColor; }
 .brand-text {
-  font-family: var(--font-display); font-size: .82rem; text-transform: uppercase;
-  color: var(--cream); max-width: 16ch; line-height: 1.15; letter-spacing: .02em;
+  font-family: var(--font-display); font-size: .95rem; text-transform: uppercase;
+  color: var(--cream); max-width: 22ch; line-height: 1.15; letter-spacing: .02em;
   transition: color .25s ease;
 }
 .brand-text em { font-style: normal; color: var(--sun); }
 .site-header.scrolled .brand-text { color: var(--ink); }
-nav { display: flex; align-items: center; gap: 1.4rem; }
+nav { display: flex; align-items: center; gap: 1.7rem; }
 nav a {
-  font-family: var(--font-label); font-size: .78rem; letter-spacing: .14em; text-transform: uppercase;
+  font-family: var(--font-label); font-size: .92rem; font-weight: 600; letter-spacing: .12em; text-transform: uppercase;
   text-decoration: none; color: var(--cream);
   transition: color .25s ease;
 }
 nav a:hover { color: var(--sun); }
 .site-header.scrolled nav a { color: var(--ink); }
-.nav-call { background: var(--clay); padding: .5rem .95rem; border-radius: 999px; color: #fff !important; }
+.nav-call { background: var(--clay); padding: .6rem 1.1rem; border-radius: 999px; color: #fff !important; }
 .nav-call:hover { background: #a9481f !important; }
 .nav-toggle { display: none; background: none; border: 0; cursor: pointer; padding: .5rem; }
 .nav-toggle span { display: block; width: 24px; height: 2px; background: var(--cream); margin: 5px 0; transition: .25s; }
