@@ -126,7 +126,7 @@ h2 {
 .brand-mark svg { width: 1.35rem; height: 1.35rem; fill: currentColor; }
 .brand-text {
   font-family: var(--font-display); font-size: .95rem; text-transform: uppercase;
-  color: var(--cream); max-width: 22ch; line-height: 1.15; letter-spacing: .02em;
+  color: var(--cream); max-width: min(22ch, 40vw); line-height: 1.15; letter-spacing: .02em;
   transition: color .25s ease;
 }
 .brand-text em { font-style: normal; color: var(--sun); }
