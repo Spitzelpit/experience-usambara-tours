@@ -330,7 +330,7 @@ nav a:hover { color: var(--sun); }
   .gallery-grid { grid-template-columns: repeat(3, 1fr); }
 }
 @media (max-width: 380px) {
-  .foot-word { font-size: 2rem; }
+  .foot-word { font-size: min(2rem, 7vw); }
   .nav-row { gap: .5rem; }
   .brand-text { max-width: 30vw; }
   .nav-toggle { padding: .35rem; }
