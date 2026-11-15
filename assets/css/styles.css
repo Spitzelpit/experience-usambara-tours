@@ -331,6 +331,9 @@ nav a:hover { color: var(--sun); }
 }
 @media (max-width: 380px) {
   .foot-word { font-size: 2rem; }
+  .nav-row { gap: .5rem; }
+  .brand-text { max-width: 30vw; }
+  .nav-toggle { padding: .35rem; }
 }
 @media (max-width: 719px) {
   nav {
