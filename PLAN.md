@@ -59,11 +59,11 @@ usambara-tours/
 - Repo auf GitHub, UEBERGABE.md liegt bei
 
 ## Verifikation (M5-Ergebnis)
-- HTTP 200 fuer index, CSS, JS, beide Fonts, 6 Bilder, Favicon
+- HTTP 200 fuer index, CSS, JS, beide Fonts, 6 Bilder (WebP), Favicon
 - Playwright (Chromium 1234): 0 Konsolen-Fehler, overflowX 0 auf 1440px und 390px
 - Ludicrous + Ludicrous Stencil via document.fonts.check bestaetigt geladen
 - 12 Bilder alle mit Alt-Text, keine Broken Images; Lazy-Loader laedt alle nach Scroll
-- 1x h1; 0 wa.me-Links; 8x tel:+255653106997, 2x mailto, FB-Link direkt
+- 1x h1; 0 wa.me-Links; 4x tel:+255653106997 + 4 Contact-Anker, 2x mailto, FB-Link direkt
 - Visueller Check (Screenshot-Analyse): Font rendert, keine Ueberlappungen, kein KI-Look
 - Kontrast-Iteration: Eyebrow als Chip auf dunklem Grund, obiger Scrim, Clay #ad4a20
   (Weiss-auf-Clay ~5:1 statt 3,6:1)

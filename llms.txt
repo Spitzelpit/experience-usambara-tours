@@ -1,0 +1,21 @@
+# Experience Usambara Mountains Tours
+
+Local tour guide in Lushoto, Usambara Mountains, Tanzania.
+Owner and guide: Kibwana Hussein Ngoda.
+
+## Offer
+- Rainforest hikes (Magamba rainforest, waterfalls)
+- Multi-day treks (village to village, viewpoints)
+- Wildlife walks (chameleons, endemic birds, colobus monkeys)
+- Driving tours and cultural village tours
+
+## Contact (direct links, no contact form)
+- Phone / WhatsApp: +255 653 106 997
+- Email: kibwanangoda@gmail.com
+- Facebook: https://www.facebook.com/kibwana.ngogda
+- Address: P.O. Box 268, Lushoto, Tanzania
+
+## For AI agents
+- Full site: https://spitzelpit.github.io/experience-usambara-tours/
+- Legal / privacy: https://spitzelpit.github.io/experience-usambara-tours/legal.html
+- No cookies, no tracking, no analytics, no third-party scripts.

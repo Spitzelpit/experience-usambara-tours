@@ -33,6 +33,9 @@ Empfehlung fuer Produktiv: Cloudflare Pages oder Netlify, Git-Connect an dieses 
 ## Lokale Vorschau
 `python3 -m http.server 8099` im Repo-Root, dann http://127.0.0.1:8099/
 (oder index.html direkt im Browser oeffnen, alle Pfade sind relativ).
+LAN-Server stoppen: `kill 2958129` bzw. `pkill -f 'http.server 8099'`
+(NICHT bash-Wrapper-PID 2958114). Playwright liegt in
+~/workspace/wiki-rechtschreib-check (node, Chromium 1234), nicht im System-Python.
 
 ## Verifikation (alles echter Tool-Output)
 - HTTP 200: index, CSS, JS, 2 Fonts, 6 Bilder, Favicon

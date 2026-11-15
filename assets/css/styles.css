@@ -311,7 +311,7 @@ nav a:hover { color: var(--sun); }
 .foot-row { display: grid; gap: 1.5rem; }
 .foot-meta { display: grid; gap: .9rem; font-size: .95rem; }
 .foot-meta a { color: var(--sun); }
-.foot-small { font-family: var(--font-label); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: #7d8a78; }
+.foot-small { font-family: var(--font-label); font-size: .72rem; letter-spacing: .12em; text-transform: uppercase; color: #b9c6b4; }
 
 /* ---------------- reveal ---------------- */
 .reveal { opacity: 0; transform: translateY(26px); transition: opacity .6s ease, transform .6s ease; }

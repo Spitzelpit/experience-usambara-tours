@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Keine Sitemap-Pflicht bei 2 Seiten, aber sauber:
+Sitemap: https://spitzelpit.github.io/experience-usambara-tours/sitemap.xml
