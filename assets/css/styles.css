@@ -283,6 +283,7 @@ nav a:hover { color: var(--sun); }
 .contact-card {
   background: var(--cream); color: var(--ink); border-radius: var(--radius);
   padding: clamp(1.4rem, 3vw, 2.2rem); box-shadow: var(--shadow); transform: rotate(.6deg);
+  min-width: 0;
 }
 .contact-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 1.3rem; }
 .contact-list li { display: flex; gap: 1rem; align-items: flex-start; }
@@ -300,6 +301,8 @@ nav a:hover { color: var(--sun); }
 }
 .contact-list a:hover { border-color: var(--clay); }
 .contact-list span:not(.label) { font-size: 1.05rem; }
+.contact-list li > div { min-width: 0; }
+.contact-list a, .contact-list li > div > span:not(.label) { overflow-wrap: anywhere; }
 
 /* ---------------- footer ---------------- */
 .site-footer { background: var(--deep); color: #b9c6b4; padding: 4rem 0 2rem; overflow: clip; }
